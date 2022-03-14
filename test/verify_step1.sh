@@ -1,6 +1,6 @@
 #/bin/bash
 
-if [[ -f "/root/test-file.txt" ]]
+if [[ -f "./test-file.txt" ]]
 then
     exit 0
 else
