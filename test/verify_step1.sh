@@ -1,3 +1,8 @@
 #/bin/bash
 
-test -f ./test-file.txt
+if [[ -f "/root/test-file.txt" ]]
+then
+    exit 0
+else
+    exit 1
+fi
