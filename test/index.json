@@ -32,10 +32,10 @@
         }
     },
     "environment": {
-        "uilayout": "editor-terminal",
+        "uilayout": "terminal",
         "hideHiddenFiles": true
     },
     "backend": {
-        "imageid": "ubuntu:2004"
+        "imageid": "bash1804"
     }
 }
