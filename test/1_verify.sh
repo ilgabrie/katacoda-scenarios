@@ -1,1 +1,3 @@
-test -f /root/bananas.txt
+#!/bin/bash
+
+[ -f /root/bananas.txt ] && echo "done"
