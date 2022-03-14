@@ -9,8 +9,7 @@
             {
                 "title": "Task 1 - Bananas",
                 "text": "1_task.md",
-                "verify": "1_verify.sh",
-                "hint": "1_hint.sh"
+                "verify": "1_verify.sh"
             },
             {
                 "title": "Task 2 - Apples",
