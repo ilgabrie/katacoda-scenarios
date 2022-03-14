@@ -1,3 +1,4 @@
 #/bin/bash
 
-test -f /root/test-file.txt
+test -f ./test-file.txt
+echo $?
